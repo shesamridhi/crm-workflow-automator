@@ -1,1 +1,0 @@
-{"framework":"vite","rootDirectory":"client","rewrites":[{"source":"/api/(.*)","destination":"../server/server.js"}]}
